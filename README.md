@@ -6,5 +6,5 @@
 💭 Currently learning about data analytics and data visualization! <br/>
 
 [![Samy Firas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samyfiras07)](https://github.com/Samyfiras07/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samyfiras07&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samyfiras07&show_icons=true&theme=dark)
 
