@@ -1,4 +1,4 @@
-## Hi, I'm Samy Firas! 👋
+# Hi, I'm Samy Firas! 👋
 
 👨🏽‍💻 Software Engineer sharing about my journey and learnings in tech <br/>
 👨🏽‍🎓 Studied Computer Science at the [University of Annaba, Algeria](https://www.univ-annaba.dz)  <br/>
