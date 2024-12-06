@@ -2,7 +2,7 @@
 
 👨🏽‍💻 Software Engineer sharing about my journey and learnings in tech <br/>
 👨🏽‍🎓 Studied Computer Science at the [University of Annaba, Algeria](https://www.univ-annaba.dz)  <br/>
-🎨 Making videos about Computer Science, tech, and productivity on [Instagram](https://www.instagram.com/samy_code/) <br/>
+🎨 Making videos about Computer Science, tech, and productivity on [Instagram](https://www.instagram.com/samy_codes/) <br/>
 💭 Currently learning about data analytics and data visualization! <br/>
 
 # 💻 Tech Stack:
